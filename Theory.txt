@@ -1,3 +1,5 @@
+TYPICAL JONATHAN GANYANI
+
 1. DI stands for dependency injection whilst IOC stands for inversion of control. Dependency Injection is a design pattern that provides
 objects that an object needs. For instance if A is dependent on B, one can inject the dependencies via a constructor or setter injection,
 rather than creating the object B in class A. 
